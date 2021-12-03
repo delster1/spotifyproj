@@ -1,15 +1,3 @@
-var Spotify = require('spotify-web-api-js');
-var s = new Spotify();
-// var spotifyApi = new SpotifyWebApi();
-var http = require('http');
-const { default: SpotifyWebApi } = require('spotify-web-api-js');
-
-http.createServer(function(request,response) {
-    response.writeHead(200, {'Content-Type': 'text/plain'});
-    response.write("websites here");
-    response.end();
-}).listen(8888);
-
-
-// code if need accesstoken later
-    //  spotifyApi.setAccessToken('')
+const clientId = '6d37528ea6f94affbeda2e7b46549af9';
+const clientSecret = '124127e1d9f246c0a15417980ee19ee9';
+const redirectUri = 'http://localhost:8888/callback';
