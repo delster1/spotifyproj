@@ -1,0 +1,10 @@
+/mnt/c/Users/delst/Documents/master/d3/code/spotifyproj/target/debug/deps/libwasm_bindgen_test-3ea460e86eefeade.rmeta: /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/mnt/c/Users/delst/Documents/master/d3/code/spotifyproj/target/debug/deps/wasm_bindgen_test-3ea460e86eefeade.d: /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs:
+/home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs:
+/home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs:
+/home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs:
+/home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs:
+/home/d3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs:
