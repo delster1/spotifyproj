@@ -1,6 +1,6 @@
 # spotifyproj (name tbd)
 
-A project with Rust (right now, might change language later), for easy spotify playlist management, editing, and configuration.
+A project with Rust (right now, might change language to elm or some sort of js), for easy spotify playlist management, editing, and configuration.
 
 Future Features (hopefully):
 - playlist comparison
