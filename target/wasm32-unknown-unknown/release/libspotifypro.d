@@ -1,0 +1,1 @@
+/mnt/c/Users/delst/Documents/master/d3/code/spotifyproj/target/wasm32-unknown-unknown/release/libspotifypro.rlib: /mnt/c/Users/delst/Documents/master/d3/code/spotifyproj/src/lib.rs /mnt/c/Users/delst/Documents/master/d3/code/spotifyproj/src/utils.rs
